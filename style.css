@@ -1,0 +1,41 @@
+a {
+    margin: 30px;
+    padding: 30px;
+}
+
+h1.title {
+    text-align: center;
+    font-family: 'Roboto', sans-serif, impact;
+}
+
+.table1 {
+    width: 750px;
+    height: 200px;
+    margin: 30px auto 0 auto;
+}
+
+body.back {
+    background-color: lightyellow;
+}
+
+h1.title2 {
+    text-align: center;
+    font-family: 'Roboto', sans-serif, impact;
+}
+
+.table2 {
+    width: 750px;
+    height: 200px;
+    margin: 30px auto 0 auto;
+}
+
+h1.title3 {
+    text-align: center;
+    font-family: 'Roboto', sans-serif, impact;
+}
+
+.table3 {
+    width: 750px;
+    height: 200px;
+    margin: 30px auto 0 auto;
+}
